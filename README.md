@@ -9,3 +9,5 @@ And Use DxViewer To Verify.
 Texture: .dds (DirectxDraw Surface File)
 
 Model: .x (DirectX3D Model File)
+
+If You Wanna To Convert And Fix It To FBX, Plz Use Deep Exploration.
