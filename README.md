@@ -10,7 +10,7 @@ Texture: .dds (DirectxDraw Surface File)
 
 Model: .x (DirectX3D Model File)
 
-If You Wanna To Convert And Fix It To FBX(Cuz Hand Part Has Shifted), Plz Use Deep Exploration Convert To .Obj First, Then Import To Blender To Fix.
+If You Wanna To Convert And Fix It To FBX(Cuz Hand Part Has Shifted), Plz Use Deep Exploration Convert To .fbx First, Then Import To Blender To Fix.
 
 Tip: Should T-Pose Then Import To Blender.
 
