@@ -14,6 +14,8 @@ If You Wanna To Convert And Fix It To FBX(Cuz Hand Part Has Shifted), Plz Use De
 
 Tip: Should T-Pose Then Import To Blender.
 
+The Last Question: But Can You Find It Out Belong For Game Is What.............
+
 
 ExractTools Thanks:
 
