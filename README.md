@@ -12,7 +12,7 @@ Model: .x (DirectX3D Model File)
 
 If You Wanna To Convert And Fix It To FBX(Cuz Hand Part Has Shifted), Plz Use Deep Exploration Convert To .fbx First, Then Import To Blender To Fix.
 
-Tip: Should T-Pose Then Import To Blender.
+Tip: Should T-Pose Then Import To Blender. And Separate... A Weapon + A Character.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/FINALZ-27980/Arcade-Game-Exract-Files/refs/heads/main/Issues/1.png" alt="Screenshot">
